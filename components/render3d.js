@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { Loading } from "@nextui-org/react";
 import render from "../render/model";
 
-const bundleId = "704000";
+const bundleId = "1001100";
 
 export default function Render3D() {
   const canvasRef = useRef(null);
